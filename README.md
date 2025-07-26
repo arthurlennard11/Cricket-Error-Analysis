@@ -1,1 +1,3 @@
-# Cricket-Error-Analysis
+## Cricket-Error-Analysis
+
+### This project, which was completed in Python, tasked me with helping the coach of a hypothetical cricket team to identify where errors come from. In cricket, there are two common errors, known as "wides" and "no balls". The coach of the hypothetical team wanted me to find if errors seemed to stem from certain teams of if they were random in nature. After that, I had to determine if maximizing error margin was a valid strategy for improving performance, and then identify any ways of making this possible. The point of all this was to determine if the coach should spend more time with the team practicing to reduce errors, or instead find ways to try to force more errors. I ended up investigating certain teams' error habits while controlling for their opponent to see if specific teams seems to cause more errors than expected. More information on my appraoch is indcluded in the presentation tab.
