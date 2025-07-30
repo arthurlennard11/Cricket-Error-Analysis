@@ -1,3 +1,39 @@
-## Cricket-Error-Analysis
+# 🏏 Cricket Error Analysis in Python
 
-### This project, which was completed in Python, tasked me with helping the coach of a hypothetical cricket team to identify where errors come from. In cricket, there are two common errors, known as "wides" and "no balls". The coach of the hypothetical team wanted me to find if errors seemed to stem from certain teams of if they were random in nature. After that, I had to determine if maximizing error margin was a valid strategy for improving performance, and then identify any ways of making this possible. The point of all this was to determine if the coach should spend more time with the team practicing to reduce errors, or instead find ways to try to force more errors. I ended up investigating certain teams' error habits while controlling for their opponent to see if specific teams seems to cause more errors than expected. More information on my appraoch is indcluded in the presentation tab.
+---
+
+## 🎯 Goal
+
+To determine whether the coach of a hypothetical cricket team should focus on **reducing their own team’s errors** or **strategically causing more errors from opponents**, based on patterns in "wides" and "no balls".
+
+---
+
+## 🧠 Hypothesis
+
+Certain teams may either **consistently commit more errors** themselves or **cause more errors in their opponents**, suggesting that **error patterns may not be random** and could be strategically exploited.
+
+---
+
+## 📊 Data
+
+- Python-based analysis of match-level cricket data  
+- Error types focused on: **wides** and **no balls**  
+- Team-level statistics paired with opponent identity to identify patterns and trends  
+- Full methodology available in the **Presentation** tab of the repository
+
+---
+
+## 🧪 Methods
+
+- Cleaned and preprocessed team-level match data  
+- Investigated team-specific error behavior while **controlling for the opponent**  
+- Analyzed whether some teams consistently **induced more errors** from their opponents  
+- Explored whether **maximizing the opponent’s margin for error** (within legal bounds) could lead to improved performance
+
+---
+
+## 🏁 Outcome
+
+Discovered evidence that some teams cause or commit errors at **non-random rates**, opening the door for **coaches to develop more strategic approaches** — either by reducing their own errors through practice or manipulating game conditions to increase their opponents’ error rate.
+
+---
