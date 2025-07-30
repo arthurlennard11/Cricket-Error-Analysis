@@ -21,6 +21,10 @@ Certain teams may either **consistently commit more errors** themselves or **cau
 - Team-level statistics paired with opponent identity to identify patterns and trends  
 - Full methodology available in the **Presentation** tab of the repository
 
+&nbsp;
+
+<img src="Visuals/Top10ScatterPlot.png" alt="Intervals" width="50%">
+
 ---
 
 ## 🧪 Methods
@@ -30,10 +34,18 @@ Certain teams may either **consistently commit more errors** themselves or **cau
 - Analyzed whether some teams consistently **induced more errors** from their opponents  
 - Explored whether **maximizing the opponent’s margin for error** (within legal bounds) could lead to improved performance
 
+&nbsp;
+
+<img src="Visuals/ErrorMargins.png" alt="Intervals" width="50%">
+
 ---
 
 ## 🏁 Outcome
 
-Discovered evidence that some teams cause or commit errors at **non-random rates**, opening the door for **coaches to develop more strategic approaches** — either by reducing their own errors through practice or manipulating game conditions to increase their opponents’ error rate.
+Discovered evidence that some teams cause or commit errors at **non-random rates**, opening the door for **coaches to develop more strategic approaches** — either by reducing their own errors through practice or manipulating game conditions to increase their opponents’ error rate. Specifically, there was a seemingly higher error rate for teams playing against Bangladesh, although significance tests were not conducted. 
+
+&nbsp;
+
+<img src="Visuals/ErrorsPerBallBangladesh.png" alt="Intervals" width="50%">
 
 ---
