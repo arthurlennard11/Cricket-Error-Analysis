@@ -18,7 +18,7 @@ Certain teams may either **consistently commit more errors** themselves or **cau
 
 - Python-based analysis of match-level cricket data  
 - Error types focused on: **wides** and **no balls**  
-- Team-level statistics paired with opponent identity to identify patterns and trends  
+- Team-level statistics paired with opponent identity to find patterns and trends  
 - Full methodology available in the **Presentation** tab of the repository
 
 &nbsp;
