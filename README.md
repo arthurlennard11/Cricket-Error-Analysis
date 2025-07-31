@@ -42,7 +42,7 @@ Certain teams may either **consistently commit more errors** themselves or **cau
 
 ## 🏁 Outcome
 
-Discovered evidence that some teams cause or commit errors at **non-random rates**, opening the door for **coaches to develop more strategic approaches** — either by reducing their own errors through practice or manipulating game conditions to increase their opponents’ error rate. Specifically, there was a seemingly higher error rate for teams playing against Bangladesh, although significance tests were not conducted. 
+Discovered evidence that some teams cause or commit errors at **non-random rates**, opening the door for **coaches to develop more strategic approaches** — either by reducing their own errors through practice or manipulating game conditions to increase their opponents’ error rate. Specifically, there was a seemingly higher error rate for all teams playing against Bangladesh except for Australia, although significance tests were not conducted. 
 
 &nbsp;
 
